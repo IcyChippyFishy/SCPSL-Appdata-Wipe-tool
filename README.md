@@ -1,7 +1,7 @@
 # SCPSL Appdata Folder Wipe Tool
 
 A simple open-source batch utility to wipe the SCP: Secret Laboratory
-AppData folder in order to fix issues with the Mistaken Client.
+folder in Appdata/Roaming order to fix issues with the Mistaken Client.
 
 ## What does this do?
 This tool deletes the following folder for the CURRENT Windows user:
